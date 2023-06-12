@@ -1,0 +1,29 @@
+Test Data1:
+{
+  "publisher": "",
+  "title": "C#",
+  "authorLastName": "",
+  "authorFirstName": "",
+  "year": 0,
+  "isbn": ""
+}
+
+Test Data2:
+{
+  "publisher": "Charles",
+  "title": "C#",
+  "authorLastName": "",
+  "authorFirstName": "",
+  "year": 0,
+  "isbn": ""
+}
+
+Test Data3:
+{
+  "publisher": "Charles",
+  "title": "C#",
+  "authorLastName": "Gurusamy",
+  "authorFirstName": "Akalya",
+  "year": 2018,
+  "isbn": "9780743273563"
+}
